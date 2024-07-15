@@ -10,3 +10,15 @@
 
 ## Advance Python 
 **=====================**
+
+- **Functions**
+- **Functional programming**
+- **File Handling and other OS functions**
+- **Modules**
+- **Exception Handling**
+- **OOPS concepts**
+- **Multi-thread**
+
+## In depth Numpy concepts with examples
+
+
