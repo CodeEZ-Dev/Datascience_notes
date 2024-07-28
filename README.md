@@ -21,5 +21,6 @@
 
 ## In depth Numpy concepts with examples
 ## In depth Pandas concepts with examples
+## Streamlit projects
 
 
