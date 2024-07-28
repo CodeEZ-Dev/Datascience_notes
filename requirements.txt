@@ -7,3 +7,5 @@ flask
 memory_profiler
 streamlit
 scikit-learn
+plotly
+plotly-express
