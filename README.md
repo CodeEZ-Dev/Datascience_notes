@@ -21,6 +21,8 @@
 
 ## In depth Numpy concepts with examples
 ## In depth Pandas concepts with examples
+## In depth Seaborn concepts with examples
+## In depth Matplotlib concepts with examples
 ## Streamlit projects
 
 
