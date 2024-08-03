@@ -17,10 +17,9 @@
 - **Modules**
 - **Exception Handling**
 - **OOPS concepts**
-- **Multi-thread**
 - **Memory Managment**
 - **Logging**
--**Multi-Threading & Multi-Processing**
+- **Multi-Threading & Multi-Processing**
 
 ## In depth Numpy concepts with examples
 ## In depth Pandas concepts with examples
