@@ -1,13 +1,15 @@
-from flask import Flask, render_template, request
+from flask import Flask, jsonify, render_template, request
 from flipkart.retrieval_generation import generation
 from flipkart.data_ingestion import data_ingestion
-
+from flasgger import Swagger
 
 vstore = data_ingestion("done")
 chain = generation(vstore)
 
 
+#app = Flask(__name__)
 app = Flask(__name__)
+swagger = Swagger(app)
 
 @app.route("/")
 def index():

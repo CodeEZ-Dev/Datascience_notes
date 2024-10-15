@@ -7,4 +7,5 @@ pypdf
 python-dotenv
 pandas
 flask
+flasgger
 -e .
