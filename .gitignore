@@ -1,2 +1,6 @@
 venv
 .college_notes
+.dockerignore
+.env
+.gitignore
+flipkart.egg-info
