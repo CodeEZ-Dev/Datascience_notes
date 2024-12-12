@@ -1,0 +1,8 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+ollama
+Pillow

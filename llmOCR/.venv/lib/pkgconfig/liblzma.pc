@@ -1,0 +1,20 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/Users/munusami/Desktop/M.Tech AI program/Python/llmOCR/.venv
+exec_prefix=/Users/munusami/Desktop/M.Tech AI program/Python/llmOCR/.venv
+libdir=/Users/munusami/Desktop/M.Tech AI program/Python/llmOCR/.venv/lib
+includedir=/Users/munusami/Desktop/M.Tech AI program/Python/llmOCR/.venv/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://xz.tukaani.org/xz-utils/
+Version: 5.4.6
+Cflags: -I${includedir}
+Cflags.private: -DLZMA_API_STATIC
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lpthread
